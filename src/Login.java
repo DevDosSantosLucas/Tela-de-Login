@@ -44,7 +44,7 @@ public class Login extends JFrame {
 			this.add(btnCadastrar);
 			
 
-			System.out.println("HELLO WORLD");
+			
 			
 			
 		}
